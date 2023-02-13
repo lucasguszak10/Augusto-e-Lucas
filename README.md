@@ -1,2 +1,3 @@
 # Augusto-e-Lucas
-Trabalho Sistema de Versionamento
+
+Meu primeiro repositório no Github
